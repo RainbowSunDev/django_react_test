@@ -1,5 +1,5 @@
 # DIY Django and React Boilerplate for SaaS
-
+<!--  -->
 It is a do-it-yourself Django + React Boilerplate for starting your SaaS application. In existing boilerplates for Django+React (or just for Django), there are very often too many features provided (do you really need traffik for MVP?). So before starting, you need to remove a lot of functionality that you don't need or simply don't understand. 
 
 I decided to create a simple Django+React boilerplate with step-by-step instructions on how to build it. During building, you can decide what you need or not. And for sure, you learn a lot about Django and React. I hope it will provide a good and quick starting point for creating SaaS applications. I want to create real SaaS applications based on this boilerplate with step-by-step tutorials on how they were created. They will be available on [SaaSitive](https://saasitive.com) website.
