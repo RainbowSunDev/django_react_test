@@ -13,7 +13,7 @@ class PasswordResetTest(APITestCase):
     
     # user infofmation
     user_data = {
-        "email": "test@example.com", 
+        "email": "test_user@example.com", 
         "username": "test_user", 
         "password": "verysecret"
     }
